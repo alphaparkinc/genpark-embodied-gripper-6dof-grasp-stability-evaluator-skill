@@ -1,0 +1,11 @@
+{
+  "name": "genpark-embodied-gripper-6dof-grasp-stability-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Physical AI 6-DoF robotic antipodal grasp stability evaluator with Coulomb friction cone checking, contact normal alignment, and grasp wrench quality.",
+  "tools": [
+    {
+      "name": "evaluate_antipodal_grasp",
+      "description": "Verify antipodal grasp stability and friction cone boundary satisfaction."
+    }
+  ]
+}
